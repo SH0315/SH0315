@@ -23,7 +23,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
         
-    </div> 
+
   
   <img src="https://github-readme-stats.vercel.app/api?username=SH0315&show_icons=true&theme=midnight-purple&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH0315&layout=compact&theme=midnight-purple&hide_border=true"/>
