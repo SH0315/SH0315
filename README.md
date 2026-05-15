@@ -22,7 +22,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Experience </h2> <div align= "center"> 
-     <h3>- 2026 DASOM HAKATHON 대회 최우수상 - 알림 리마인더 및 이벤트 추천 AI</h3>
+     <h3> 2026 DASOM HAKATHON 대회 최우수상 - AI를 활용한 </h3>
 
 <br/>
  
