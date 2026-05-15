@@ -24,7 +24,7 @@
 
 <!-- 대외활동 -->
 <br/>
-<h2>✨Experiencs</h2>
+<h2>✨Activities</h2>
 
 <table>
   <tr>
