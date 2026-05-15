@@ -1,32 +1,53 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1b93d0&height=240&text=Hyeok's%20GitHub&animation=&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ABOUT ME </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 💻 Backend Developer 준비 중 </li> </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ TECH STUDYING </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <br/></div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:sh030315@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sh030315@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Experience </h2> <div align= "center"> 
-    <h4> 2026 DASOM HAKATHON 대회 최우수상 🏆 - AI를 활용한 치매 조기 감지 및 케어 서비스 </h4>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1b93d0&height=240&text=Hyeok's%20GitHub&fontColor=ffffff&fontSize=50" />
+</div>
 
+<!--소개-->
+<h2> 🔍 About Me</h2>
+
+<p>
+🎓 <b>동양미래대학교 컴퓨터소프트웨어학과 2학년 재학</b> | 2023.3 ~ 현재<br/>
+💻 <b>컴퓨터소프트웨어학과 전공동아리 EL 소속</b> | 2023.3 ~ 현재
+</p>
+
+<!-- 스택 -->
 <br/>
  
-</p>
-    </div>
-    
+## 🛠 Tech Stacks
+**🎨 Front-end**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**💻 Back-end**
+
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+**⚙️ Tools & OS**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- 대외활동 -->
+<br/>
+<h2>✨Experiencs</h2>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Project</th>
+    <th>Role</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td>2026.05</td>
+    <td><b>미리봄</b> - AI 기반 치매 조기 감지 및 케어 서비스</td>
+    <td align="center">BE</td>
+    <td> 2026 SOMKATHON 최우수상 🏆
+  </tr>
+</table>
