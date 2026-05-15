@@ -22,7 +22,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Experience </h2> <div align= "center"> 
-    <h4> 2026 DASOM HAKATHON 대회 최우수상 - AI를 활용한 치매 조기 감지 및 케어 서비스 </h4>
+    <h4> 2026 DASOM HAKATHON 대회 🏆최우수상 - AI를 활용한 치매 조기 감지 및 케어 서비스 </h4>
 
 <br/>
  
