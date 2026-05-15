@@ -21,8 +21,8 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-        
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Experience </h2> <div align= "center"> 
+        - 2026 DASOM SOMKATHON 대회 **최우수상** - 알림 리마인더 및 이벤트 추천 AI
 
  
 </p>
